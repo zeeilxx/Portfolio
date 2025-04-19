@@ -4,8 +4,8 @@ export default function Skills() {
   return (
     <div className="bg-slate-50">
     <div className=" mx-auto max-w-6xl p-5 py-20 " id="skills">
-      <div className="mb-16 pb-4 font-medium text-black text-left text-7xl">
-        Skills
+      <div className="mb-16 pb-4 font-medium text-left text-7xl text-white rounded-lg bg-gray-300 shadow-lg px-5 border-2 border-black/10 text-shadow max-w-[350px]">
+      💡Skills
       </div>
 
       <div className="grid gap-4 grid-cols-4">

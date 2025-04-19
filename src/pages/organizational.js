@@ -4,8 +4,8 @@ export default function Organizational(){
     return (
         <div className="bg-slate-50">
         <div className=" mx-auto max-w-6xl p-5 py-20" id="organizational">
-            <div className="mb-16 pb-4 pt-5 text-left text-7xl font-medium text-black">
-        Organizational Experience
+            <div className="mb-16 pb-4 pt-5 text-left text-7xl font-medium text-white rounded-lg bg-gray-300 shadow-lg px-5 border-2 border-black/10 text-shadow max-w-[1010px]">
+            🕴️Organizational Experience
       </div>
       {organizationals.map((org) => {
         return (

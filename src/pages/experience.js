@@ -3,8 +3,8 @@ import React from 'react';
 export default function Experience() {
   return (
     <div className=" mx-auto max-w-6xl p-5 py-20" id="experiences">
-      <div className="mb-16 pb-4 text-left text-7xl font-medium text-black">
-      Technical Experience
+      <div className="mb-16 pb-4 text-left text-7xl font-medium text-white rounded-lg bg-gray-300 shadow-lg px-5 border-2 border-black/10 text-shadow max-w-[830px]">
+      🔧Technical Experience
       </div>
       {experiences.map((exp) => {
         return (

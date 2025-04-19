@@ -4,7 +4,7 @@ export default function Projects() {
   return (
     <div className=" relative overflow-hidden" id="projects">
       <div className=" mx-auto max-w-6xl p-5 py-8 py-20 " id="experience">
-        <div className="mb-16 pb-4 text-7xl max-w-[400px] font-medium text-black rounded-lg bg-gray-100  shadow-sm px-5">🚀Projects</div>
+        <div className="mb-16 pb-4 text-7xl max-w-[450px] font-medium text-white rounded-lg bg-gray-300 shadow-lg px-5 border-2 border-black/10 text-shadow">🚀 Projects</div>
 
         <div className="w-[1130px] rounded-lg bg-gray-300 shadow-md px-5">
           <div className="no-scrollbar relative max-w-[1114px] space-x-4 overflow-hidden overflow-x-auto">
